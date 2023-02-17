@@ -6,4 +6,4 @@
 ```
 
 donde: 
-	<nombreUsuario>: es el nombre del usuario de GitHub que se desea consultar
+	nombreUsuario: es el nombre del usuario de GitHub que se desea consultar
